@@ -9,7 +9,7 @@ The **👤 Instagram Profile Viewer** is the most advanced tool for viewing Inst
 
 <div align="center">
 
-[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-profile-viewer-free)
+[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-profile-viewer-free)
 
 </div>
 
@@ -108,7 +108,7 @@ You need a way to view profile details. Quickly. Easily. Without logging in.
 6. **🔍 Enter Username** — type Instagram username (without @)
 7. **🔎 Click Search** — view profile information
 
-[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-profile-viewer-free)
+[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-profile-viewer-free)
 
 ### Viewing a Profile
 
@@ -210,7 +210,7 @@ View Instagram profile information easily. **Instagram Profile Viewer** gives yo
 
 <div align="center">
 
-[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/instagram-profile-viewer-free)
+[![Download Instagram Profile Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/instagram-profile-viewer-free)
 
 **Version 4.6.1** — Instagram profile viewer. Free forever.
 
